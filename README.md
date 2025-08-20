@@ -4,6 +4,8 @@ DropoutGuard is a predictive model designed to estimate the risk of a student dr
 
 This project is a machine learning-based predictor that helps identify learners at risk early, enabling instructors and institutions to provide timely interventions such as personalized support, reminders, or additional resources to improve student retention.
 
+
+
 🚀 **Importance of This Predictor**
 
  🟡Early Intervention: Detects students likely to drop out, allowing instructors to take corrective actions.
@@ -13,6 +15,7 @@ This project is a machine learning-based predictor that helps identify learners 
  🟢Improved Retention: Reduces dropout rates, ensuring more learners successfully complete their courses.
 
  🟣Scalable Insight: Can be adapted to different online learning platforms and scaled with real datasets.
+ 
 
 
 ⚙️**Features**
@@ -24,6 +27,7 @@ This project is a machine learning-based predictor that helps identify learners 
 ✅ Interactive Jupyter Notebook UI with sliders & buttons (using ipywidgets).
 
 ✅ Displays dropout probability and classifies risk as High ❌ or Low ✅.
+
 
 🛠️ Technologies Used
 
