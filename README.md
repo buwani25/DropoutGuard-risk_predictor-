@@ -18,6 +18,8 @@ This project is a machine learning-based predictor that helps identify learners 
  
 
 
+
+
 ⚙️**Features**
 
 ✅ Synthetic dataset simulating online learning behavior.
@@ -27,6 +29,8 @@ This project is a machine learning-based predictor that helps identify learners 
 ✅ Interactive Jupyter Notebook UI with sliders & buttons (using ipywidgets).
 
 ✅ Displays dropout probability and classifies risk as High ❌ or Low ✅.
+
+
 
 
 🛠️ Technologies Used
